@@ -52,4 +52,5 @@
             ?>
         </ul>
     </div>
+    <a class="btn float-end btn-warning mx-1" href="../Mini-projet E-Commerce/front/index.php"><i class="fa-solid fa-user"></i> Partie front</a>
 </nav>

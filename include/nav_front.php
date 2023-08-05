@@ -20,5 +20,6 @@
         }
 
     ?>
-    <a class="btn float-end" href="panier.php"><i class="fa-solid fa-cart-shopping"></i> Panier (<?php echo PRODUCTS_COUNT ?>)</a>
+    <a class="btn float-end mx-1" href="panier.php"><i class="fa-solid fa-cart-shopping"></i> Panier (<?php echo PRODUCTS_COUNT ?>)</a>
+    <a class="btn float-end btn-warning mx-1" href="../index.php"><i class="fa-solid fa-screwdriver-wrench"></i> Partie back office</a>
 </nav>
